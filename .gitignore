@@ -4,8 +4,47 @@
     <meta charset="utf-8">
     <img src=http://thumbs3.ebaystatic.com/d/l225/m/mbeTw1OYGdX6umfTXfzrqAg.jpg>
     <title>Candy Kingdom:Rules</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
+    <style>
+    body {
+  font-family: "Comic Sans MS", cursive, sans-serif  
+}
+
+body {
+  background-color: saddlebrown
+}
+h1 {
+  color: red
+}
+
+h2 {
+
+  color: yellow
+}
+
+p1 {color: red
+}
+
+p2 {color:blue
+}
+
+p3 {color: green
+}
+
+p4 {color: yellow
+}
+
+p5 {color: purple
+}
+
+p6 {color: orange
+  
+}
+
+body {
+  color: black
+}
+</style>
+    </head>
   <body>
 
     <h1>Candy Kingdom</h1>
